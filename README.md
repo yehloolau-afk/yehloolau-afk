@@ -2,7 +2,7 @@
 
 I'm a designer who builds things with AI. No traditional engineering background — I use coding agents to turn ideas into real products. For me, code is a medium for making things happen.
 
-🐦 [X](https://x.com/yehloolau) · 🌐 [AI 资讯站](https://yehloolau-afk.github.io/designer-tool/ai-station.html)
+🐦 [X](https://x.com/yehlooliu) · 🌐 [AI 资讯站](https://yehloolau-afk.github.io/designer-tool/ai-station.html)
 
 ---
 
