@@ -12,7 +12,7 @@ I'm a designer who builds things with AI. No traditional engineering background 
 
 **📚 [designer-hub](https://yehloolau-afk.github.io/designer-hub/)** — A knowledge platform for designers. Three tracks: UX Design / AIGC / Design Learning. Single HTML file, no backend.
 
-**🎨 [Wanhuatong](https://wanhuatong-a.netlify.app/)** — Chinese elementary school text-to-video automation. Lesson text → storyboard → AI image → AI video, end to end. Single HTML file, no backend.
+**🎨 [Wanhuatong](https://yehloolau-afk.github.io/designer-tool/)** — Chinese elementary school text-to-video automation. Lesson text → storyboard → AI image → AI video, end to end. Single HTML file, no backend.
 
 **🎬 Shaonian Hua** — Viral children's English video planning tool. Script → storyboard → AI image → video, end to end.
 
