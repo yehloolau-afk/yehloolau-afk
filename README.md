@@ -10,7 +10,7 @@ I'm a designer who builds things with AI. No traditional engineering background 
 
 **🗞️ [AI News Station](https://github.com/yehloolau-afk/designer-tool)** — AI news aggregator with 7 channels + AI Builder tracker. Pulls from 20+ sources, auto-translates, updates hourly. Built for my team, now open to everyone.
 
-**📚 [designer-hub](https://github.com/yehloolau-afk/designer-hub)** — A knowledge platform for designers. Three tracks: UX Design / AIGC / Design Learning. Single HTML file, no backend.
+**📚 [College of Design](https://github.com/yehloolau-afk/designer-hub)** — A knowledge platform for designers. Three tracks: UX Design / AIGC / Design Learning. Single HTML file, no backend.
 
 **🎨 [Wanhuatong](https://github.com/yehloolau-afk/wanhuatong)** — Chinese elementary school text-to-video automation. Lesson text → storyboard → AI image → AI video, end to end. Single HTML file, no backend.
 
