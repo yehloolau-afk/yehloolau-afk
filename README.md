@@ -2,17 +2,17 @@
 
 I'm a designer who builds things with AI. No traditional engineering background — I use coding agents to turn ideas into real products. For me, code is a medium for making things happen.
 
-🐦 [X](https://x.com/yehlooliu) · 🌐 [AI 资讯站](https://yehloolau-afk.github.io/designer-tool/ai-station.html)
+🐦 [X](https://x.com/yehlooliu) · 🌐 [AI 资讯站](https://yehloolau-afk.github.io/designer-tool/ai-station.html) · 🎨 [Wanhuatong](https://yehloolau-afk.github.io/designer-tool/)
 
 ---
 
 ## ⭐ Featured projects
 
-**🗞️ [designer-tool](https://yehloolau-afk.github.io/designer-tool/ai-station.html)** — AI news aggregator with 7 channels + AI Builder tracker. Pulls from 20+ sources, auto-translates, updates hourly. Built for my team, now open to everyone.
+**🗞️ [designer-tool](https://github.com/yehloolau-afk/designer-tool)** — AI news aggregator with 7 channels + AI Builder tracker. Pulls from 20+ sources, auto-translates, updates hourly. Built for my team, now open to everyone.
 
-**📚 [designer-hub](https://yehloolau-afk.github.io/designer-hub/)** — A knowledge platform for designers. Three tracks: UX Design / AIGC / Design Learning. Single HTML file, no backend.
+**📚 [designer-hub](https://github.com/yehloolau-afk/designer-hub)** — A knowledge platform for designers. Three tracks: UX Design / AIGC / Design Learning. Single HTML file, no backend.
 
-**🎨 [Wanhuatong](https://yehloolau-afk.github.io/designer-tool/)** — Chinese elementary school text-to-video automation. Lesson text → storyboard → AI image → AI video, end to end. Single HTML file, no backend.
+**🎨 [Wanhuatong](https://github.com/yehloolau-afk/designer-tool)** — Chinese elementary school text-to-video automation. Lesson text → storyboard → AI image → AI video, end to end. Single HTML file, no backend.
 
 **🎬 Shaonian Hua** — Viral children's English video planning tool. Script → storyboard → AI image → video, end to end.
 
