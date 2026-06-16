@@ -2,13 +2,13 @@
 
 I'm a designer who builds things with AI. No traditional engineering background — I use coding agents to turn ideas into real products. For me, code is a medium for making things happen.
 
-🐦 [X](https://x.com/yehlooliu) · 🌐 [AI 资讯站](https://yehloolau-afk.github.io/designer-tool/ai-station.html) · 🎨 [Wanhuatong](https://yehloolau-afk.github.io/designer-tool/)
+🐦 [X](https://x.com/yehlooliu) · 🌐 [AI News Station](https://yehloolau-afk.github.io/designer-tool/ai-station.html) · 🎨 [Wanhuatong](https://yehloolau-afk.github.io/designer-tool/)
 
 ---
 
 ## ⭐ Featured projects
 
-**🗞️ [designer-tool](https://github.com/yehloolau-afk/designer-tool)** — AI news aggregator with 7 channels + AI Builder tracker. Pulls from 20+ sources, auto-translates, updates hourly. Built for my team, now open to everyone.
+**🗞️ [AI News Station](https://github.com/yehloolau-afk/designer-tool)** — AI news aggregator with 7 channels + AI Builder tracker. Pulls from 20+ sources, auto-translates, updates hourly. Built for my team, now open to everyone.
 
 **📚 [designer-hub](https://github.com/yehloolau-afk/designer-hub)** — A knowledge platform for designers. Three tracks: UX Design / AIGC / Design Learning. Single HTML file, no backend.
 
