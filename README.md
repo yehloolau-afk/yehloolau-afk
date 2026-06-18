@@ -2,21 +2,21 @@
 
 I'm a designer who builds things with AI. No traditional engineering background — I use coding agents to turn ideas into real products. For me, code is a medium for making things happen.
 
-🐦 [X](https://x.com/yehloolau) · 🌐 [AI News Station](https://yehloolau-afk.github.io/designer-tool/ai-station.html) · 🎨 [WanHuaTong](https://yehloolau-afk.github.io/wanhuatong/)
+🐦 [X](https://x.com/yehloolau) · 🌐 [AI News Station](https://wanhuatong-a.netlify.app/project.html?id=ai-station) · 🎨 [WanHuaTong](https://wanhuatong-a.netlify.app/project.html?id=wanhuatong)
 
 ---
 
 ## ⭐ Featured projects
 
-**🗞️ [AI News Station](https://yehloolau-afk.github.io/designer-tool/ai-station.html)** — 7-channel AI news aggregator. Pulls from 20+ sources, auto-translates, updates hourly. Built for my team, now open to everyone.
+**🗞️ [AI News Station](https://wanhuatong-a.netlify.app/project.html?id=ai-station)** — 7-channel AI news aggregator. Pulls from 20+ sources, auto-translates, updates hourly. Built for my team, now open to everyone.
 
-**📚 [College of Design](https://yehloolau-afk.github.io/designer-hub/)** — A knowledge platform for designers. Three tracks: UX Design / AIGC / Design Growth. Single HTML file, no backend.
+**📚 [College of Design](https://wanhuatong-a.netlify.app/project.html?id=designer-hub)** — A knowledge platform for designers. Three tracks: UX Design / AIGC / Design Growth. Single HTML file, no backend.
 
-**🎨 [WanHuaTong](https://yehloolau-afk.github.io/wanhuatong/)** — Chinese elementary school text-to-video automation. Lesson text → storyboard → AI image → AI video, end to end. Designed for desktop.
+**🎨 [WanHuaTong](https://wanhuatong-a.netlify.app/project.html?id=wanhuatong)** — Chinese elementary school text-to-video automation. Lesson text → storyboard → AI image → AI video, end to end.
 
-**🎬 Shaonian Hua** — Viral children's English video planning tool. Script → storyboard → AI image → video, end to end.
+**🎬 [Shaonian Hua](https://wanhuatong-a.netlify.app/project.html?id=shaonian-hua)** — Viral children's English video planning tool. Script → storyboard → AI image → video, end to end.
 
-**📖 Little Scholar** — Science animation for elementary school kids. Makes hard concepts visual and fun.
+**📖 [Little Scholar](https://wanhuatong-a.netlify.app/project.html?id=little-scholar)** — Science animation for elementary school kids. Makes hard concepts visual and fun.
 
 ---
 
