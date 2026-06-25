@@ -8,13 +8,13 @@ I'm a designer who builds things with AI. No traditional engineering background 
 
 ## ⭐ Featured projects
 
-**🔍 [灵感探针](https://yehloolau-afk.github.io/lingan-tanzhen/)** — Patent feasibility scanner for product ideas. Input a Chinese description, searches CN/US/EP patents, scores your innovation, and generates 3 product directions with mobile UI mockups.
+**🔍 [Patent Scout](https://yehloolau-afk.github.io/lingan-tanzhen/)** — Patent feasibility scanner for product ideas. Input an idea, it searches CN/US/EP patents, scores your innovation, and generates 3 product directions with mobile UI mockups.
 
 **🗞️ [AI News Station](https://github.com/yehloolau-afk/ai-news-station)** — 7-channel AI news aggregator. Pulls from 20+ sources, auto-translates, updates hourly. Built for my team, now open to everyone.
 
 **📚 [College of Design](https://github.com/yehloolau-afk/college-of-design)** — A knowledge platform for designers. Three tracks: UX Design / AIGC / Design Growth. Single HTML file, no backend.
 
-**🎨 [WanHuaTong](https://github.com/yehloolau-afk/wanhuatong)** — Chinese elementary school text-to-video automation. Lesson text → storyboard → AI image → AI video, end to end.
+**🎨 [WanHuaTong](https://github.com/yehloolau-afk/wanhuatong)** — Elementary school text-to-video automation. Lesson text → storyboard → AI image → AI video, end to end.
 
 ---
 
