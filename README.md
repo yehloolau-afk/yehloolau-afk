@@ -8,7 +8,7 @@ I'm a designer who builds things with AI. No traditional engineering background 
 
 ## ⭐ Featured projects
 
-**🔍 [Patent Scout](https://yehloolau-afk.github.io/lingan-tanzhen/)** — Patent feasibility scanner for product ideas. Input an idea, it searches CN/US/EP patents, scores your innovation, and generates 3 product directions with mobile UI mockups.
+**🔍 [Patent Scout](https://github.com/yehloolau-afk/lingan-tanzhen)** — Patent feasibility scanner for product ideas. Input an idea, it searches CN/US/EP patents, scores your innovation, and generates 3 product directions with mobile UI mockups.
 
 **🗞️ [AI News Station](https://github.com/yehloolau-afk/ai-news-station)** — 7-channel AI news aggregator. Pulls from 20+ sources, auto-translates, updates hourly. Built for my team, now open to everyone.
 
