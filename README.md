@@ -8,7 +8,6 @@ Right now I'm focused on tools that make designers more capable: things that red
 
 - 🎨 Day job: product design for financial services
 - 🔧 Side work: building AI-native tools for designers and creators
-- 📍 Based in China
 - ⚡ Stack of choice: single HTML file + a good API
 
 🐦 [X / Twitter](https://x.com/yehloolau) · 🌐 [AI News Station](https://yehloolau-afk.github.io/designer-tool/ai-station.html) · 🎨 [WanHuaTong](https://yehloolau-afk.github.io/wanhuatong/)
