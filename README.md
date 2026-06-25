@@ -1,8 +1,17 @@
 # Hi, I'm Yehloo 👋
 
-I'm a designer who builds things with AI. No traditional engineering background — I use coding agents to turn ideas into real products. For me, code is a medium for making things happen.
+Product designer at a fintech company by day. Builder of AI tools by night.
 
-🐦 [X](https://x.com/yehloolau) · 🌐 [AI News Station](https://yehloolau-afk.github.io/designer-tool/ai-station.html) · 🎨 [WanHuaTong](https://yehloolau-afk.github.io/wanhuatong/)
+I don't have a traditional engineering background — I use Claude Code and coding agents to turn design ideas into real, working products. For me, code is just another design material. The constraint of shipping something real forces better thinking than any mockup ever could.
+
+Right now I'm focused on tools that make designers more capable: things that reduce friction between having an idea and putting it in front of users.
+
+- 🎨 Day job: product design for financial services
+- 🔧 Side work: building AI-native tools for designers and creators
+- 📍 Based in China
+- ⚡ Stack of choice: single HTML file + a good API
+
+🐦 [X / Twitter](https://x.com/yehloolau) · 🌐 [AI News Station](https://yehloolau-afk.github.io/designer-tool/ai-station.html) · 🎨 [WanHuaTong](https://yehloolau-afk.github.io/wanhuatong/)
 
 ---
 
