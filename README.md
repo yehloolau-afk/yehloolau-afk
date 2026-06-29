@@ -20,7 +20,7 @@ Right now I'm focused on tools that make designers more capable: things that red
 
 **🗞️ [AI News Station](https://github.com/yehloolau-afk/ai-news-station)** — 7-channel AI news aggregator. Pulls from 20+ sources, auto-translates, updates hourly. Built for my team, now open to everyone.
 
-**💳 [Fintech Leon](https://yehloolau-afk.github.io/fintech-clone/)** — AI-cloned fintech product UI. Reverse-engineered with Claude Code and the ai-website-cloner-template.
+**💳 [Fintech Leon](https://github.com/yehloolau-afk/fintech-clone)** — AI-cloned fintech product UI. Reverse-engineered with Claude Code and the ai-website-cloner-template.
 
 **📚 [College of Design](https://github.com/yehloolau-afk/college-of-design)** — A knowledge platform for designers. Three tracks: UX Design / AIGC / Design Growth. Single HTML file, no backend.
 
