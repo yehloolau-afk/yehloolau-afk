@@ -24,6 +24,7 @@ Right now I'm focused on tools that make designers more capable: things that red
 **📚 [College of Design](https://github.com/yehloolau-afk/college-of-design)** — A knowledge platform for designers. Three tracks: UX Design / AIGC / Design Growth. Single HTML file, no backend.
 
 **🎨 [WanHuaTong](https://github.com/yehloolau-afk/wanhuatong)** — Elementary school text-to-video automation. Lesson text → storyboard → AI image → AI video, end to end.
+
 **💳 [Fintech Leon](https://github.com/yehloolau-afk/fintech-clone)** — AI-cloned fintech product UI. Reverse-engineered with Claude Code and the ai-website-cloner-template.
 
 
