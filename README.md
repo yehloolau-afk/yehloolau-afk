@@ -16,19 +16,17 @@ Right now I'm focused on tools that make designers more capable: things that red
 
 ## ⭐ Featured projects
 
-**🎙️ [AI 每日小记](https://github.com/yehloolau-afk/ai-daily-note)** — macOS floating voice input widget. Click the mic, Typeless starts recording, save the insight to Obsidian in one tap — without breaking your flow.
+**🎙️ [AI Daily Note](https://github.com/yehloolau-afk/ai-daily-note)** — macOS floating voice input widget. Click the mic, Typeless starts recording, save the insight to Obsidian in one tap — without breaking your flow.
 
 **🔍 [Patent Scout](https://github.com/yehloolau-afk/lingan-tanzhen)** — Patent feasibility scanner for product ideas. Input an idea, it searches CN/US/EP patents, scores your innovation, and generates 3 product directions with mobile UI mockups.
 
 **🗞️ [AI News Station](https://github.com/yehloolau-afk/ai-news-station)** — 7-channel AI news aggregator. Pulls from 20+ sources, auto-translates, updates hourly. Built for my team, now open to everyone.
-
 
 **📚 [College of Design](https://github.com/yehloolau-afk/college-of-design)** — A curated knowledge platform for designers growing in the AI era. Three tracks: UX Design fundamentals, AIGC workflow integration, and career growth — hand-picked resources, no fluff.
 
 **🎨 [WanHuaTong](https://github.com/yehloolau-afk/wanhuatong)** — Elementary school text-to-video automation pipeline. Feed in a lesson text, get back a complete video: storyboard → AI-generated images → voiced animation, fully automated.
 
 **💳 [Fintech Leon](https://github.com/yehloolau-afk/fintech-clone)** — AI-cloned fintech product UI built with Next.js. Reverse-engineered from a live site using Claude Code — design tokens extracted, components rebuilt section by section.
-
 
 ---
 
