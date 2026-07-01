@@ -16,6 +16,8 @@ Right now I'm focused on tools that make designers more capable: things that red
 
 ## ⭐ Featured projects
 
+**🎙️ [AI 每日小记](https://github.com/yehloolau-afk/ai-daily-note)** — macOS floating voice input widget. Click the mic, Typeless starts recording, save the insight to Obsidian in one tap — without breaking your flow.
+
 **🔍 [Patent Scout](https://github.com/yehloolau-afk/lingan-tanzhen)** — Patent feasibility scanner for product ideas. Input an idea, it searches CN/US/EP patents, scores your innovation, and generates 3 product directions with mobile UI mockups.
 
 **🗞️ [AI News Station](https://github.com/yehloolau-afk/ai-news-station)** — 7-channel AI news aggregator. Pulls from 20+ sources, auto-translates, updates hourly. Built for my team, now open to everyone.
