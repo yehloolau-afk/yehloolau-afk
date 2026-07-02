@@ -32,13 +32,20 @@
 
 ---
 
-## 我怎么做东西
+"## 我怎么做东西
 
-几乎所有东西都是单个 HTML 文件，部署在 GitHub Pages 上。
+我从问题出发，不从技术栈出发。大多数工具都从一个 HTML 文件开始——不用框架，不用构建，不需要复杂的部署流程。一个想法，一个下午。
 
-`Claude Code` · `原生 HTML / CSS / JS` · `GitHub Actions` · `Cloudflare Workers`
+**典型工作流：**
+1. 把问题描述给 Claude Code
+2. 在浏览器里反复调整，直到感觉对了
+3. 部署到 GitHub Pages
 
-我首先是个设计师。「不用框架、不要服务器」的约束让东西保持简单和可交付。
+当项目需要更多结构，我会用 Python（本地工具和自动化）或 Next.js。但我会尽量推迟这一步。
+
+`Claude Code` · `HTML / CSS / JS` · `Python` · `GitHub Pages` · `Cloudflare Workers`
+
+我把 AI 编程工具当成 Figma 组件来用——不是魔法，而是让思考更快、迭代更诚实的方式。"
 
 ---
 
