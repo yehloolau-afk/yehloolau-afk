@@ -32,7 +32,7 @@
 
 ---
 
-"## 我怎么做东西
+## 🛠️ 我怎么做东西
 
 我从问题出发，不从技术栈出发。大多数工具都从一个 HTML 文件开始——不用框架，不用构建，不需要复杂的部署流程。一个想法，一个下午。
 
@@ -45,12 +45,14 @@
 
 `Claude Code` · `HTML / CSS / JS` · `Python` · `GitHub Pages` · `Cloudflare Workers`
 
-我把 AI 编程工具当成 Figma 组件来用——不是魔法，而是让思考更快、迭代更诚实的方式。"
+我把 AI 编程工具当成 Figma 组件来用——不是魔法，而是让思考更快、迭代更诚实的方式。
 
 ---
 
-## 我在学什么
+## 📖 我在学什么
 
-尝试更像一个 builder 去思考——快速发布，持续迭代，做真正有人用的东西。
+- 如何从系统思维而非界面思维出发——设计从语音输入到 Obsidian 存储的完整链路，比任何 UX 课程收获更多
+- 何时把 AI 当思维伙伴，何时当代码生成器——这个区分决定了产出的质量
+- 没有工程背景的设计师，如何在 AI 时代真正把产品做出来
 
 关注中：[zarazhangrui](https://github.com/zarazhangrui) · [follow-builders](https://github.com/zarazhangrui/follow-builders)
