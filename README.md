@@ -32,7 +32,7 @@ Right now I'm focused on tools that make designers more capable: things that red
 
 ---
 
-"## How I build
+## 🛠️ How I build
 
 I start with a problem, not a stack. Most tools begin as a single HTML file — no framework, no build step, no deploy pipeline. Just an idea and an afternoon.
 
@@ -45,12 +45,14 @@ When a project needs more structure, I reach for Python (local tools, automation
 
 `Claude Code` · `HTML / CSS / JS` · `Python` · `GitHub Pages` · `Cloudflare Workers`
 
-I treat AI coding tools the way designers treat Figma components — not magic, just a way to think faster and iterate more honestly."
+I treat AI coding tools the way designers treat Figma components — not magic, just a way to think faster and iterate more honestly.
 
 ---
 
-## What I'm learning
+## 📖 What I'm learning
 
-Trying to think more like a builder — ship fast, iterate, make things people actually use.
+- How to think in systems, not just screens — building a voice-to-Obsidian pipeline taught me more than any UX course
+- When to use AI as a thinking partner vs. a code generator — the distinction changes the quality of what gets built
+- How designers without an engineering background can ship real products in the AI era
 
 Following: [zarazhangrui](https://github.com/zarazhangrui) · [follow-builders](https://github.com/zarazhangrui/follow-builders)
