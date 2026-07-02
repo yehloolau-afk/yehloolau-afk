@@ -12,7 +12,7 @@
 - 🔧 副业：为设计师和创作者打造 AI 工具
 - ⚡ 最爱的技术栈：单 HTML 文件 + 好用的 API
 
-🐦 [X / Twitter](https://x.com/yehloolau) · 📮 [Newsletter](https://aistation.substack.com/subscribe)
+🐦 [X / Twitter](https://x.com/yehloolau) · 📮 [Substack](https://aistation.substack.com/subscribe)
 
 ---
 
