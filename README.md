@@ -2,7 +2,7 @@
 
 **English** · [中文](README.zh-CN.md)
 
-Product designer at DiDi by day. Builder of AI tools by night.
+Product designer by day. Builder of AI tools by night.
 
 I don't have a traditional engineering background — I use Claude Code and coding agents to turn design ideas into real, working products. For me, code is just another design material. The constraint of shipping something real forces better thinking than any mockup ever could.
 
