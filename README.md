@@ -2,13 +2,13 @@
 
 **English** · [中文](README.zh-CN.md)
 
-Product designer at a fintech company by day. Builder of AI tools by night.
+Product designer at DiDi by day. Builder of AI tools by night.
 
 I don't have a traditional engineering background — I use Claude Code and coding agents to turn design ideas into real, working products. For me, code is just another design material. The constraint of shipping something real forces better thinking than any mockup ever could.
 
 Right now I'm focused on tools that make designers more capable: things that reduce friction between having an idea and putting it in front of users.
 
-- 🎨 Day job: product design for financial services
+- 🎨 Day job: product design at DiDi
 - 🔧 Side work: building AI-native tools for designers and creators
 - ⚡ Stack of choice: single HTML file + a good API
 
