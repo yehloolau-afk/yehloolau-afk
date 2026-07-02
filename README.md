@@ -9,7 +9,7 @@ I don't have a traditional engineering background — I use Claude Code and codi
 Right now I'm focused on tools that make designers more capable: things that reduce friction between having an idea and putting it in front of users.
 
 - 🎨 Day job: product design / UX design
-- 🔧 Side work: building AI-native tools for designers and creators
+- 🔧 Hobby: building AI-native tools for designers and creators
 - ⚡ Stack of choice: single HTML file + a good API
 
 🐦 [X / Twitter](https://x.com/yehloolau) · 📮 [Substack](https://aistation.substack.com/subscribe)
