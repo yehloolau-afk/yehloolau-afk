@@ -32,13 +32,20 @@ Right now I'm focused on tools that make designers more capable: things that red
 
 ---
 
-## How I build
+"## How I build
 
-Almost everything is a single HTML file deployed on GitHub Pages.
+I start with a problem, not a stack. Most tools begin as a single HTML file — no framework, no build step, no deploy pipeline. Just an idea and an afternoon.
 
-`Claude Code` · `Vanilla HTML / CSS / JS` · `GitHub Actions` · `Cloudflare Workers`
+**Typical workflow:**
+1. Describe the problem to Claude Code
+2. Iterate in the browser until it feels right
+3. Ship to GitHub Pages
 
-I'm a designer first. The constraint of "no framework, no server" keeps things simple and shippable.
+When a project needs more structure, I reach for Python (local tools, automation) or Next.js. But I resist that as long as possible.
+
+`Claude Code` · `HTML / CSS / JS` · `Python` · `GitHub Pages` · `Cloudflare Workers`
+
+I treat AI coding tools the way designers treat Figma components — not magic, just a way to think faster and iterate more honestly."
 
 ---
 
