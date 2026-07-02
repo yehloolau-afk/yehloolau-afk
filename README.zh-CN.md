@@ -34,7 +34,7 @@
 
 ## 我怎么做东西
 
-几乎所有东西都是单个 HTML 文件，部署在 Netlify 或 GitHub Pages 上。
+几乎所有东西都是单个 HTML 文件，部署在 GitHub Pages 上。
 
 `Claude Code` · `原生 HTML / CSS / JS` · `GitHub Actions` · `Cloudflare Workers`
 
