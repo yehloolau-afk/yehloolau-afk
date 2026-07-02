@@ -12,7 +12,7 @@ Right now I'm focused on tools that make designers more capable: things that red
 - 🔧 Side work: building AI-native tools for designers and creators
 - ⚡ Stack of choice: single HTML file + a good API
 
-🐦 [X / Twitter](https://x.com/yehloolau) · 🌐 [AI News Station](https://yehloolau-afk.github.io/ai-news-station/) · 🎨 [WanHuaTong](https://yehloolau-afk.github.io/wanhuatong/)
+🐦 [X / Twitter](https://x.com/yehloolau) · 📮 [Newsletter](https://aistation.substack.com/subscribe)
 
 ---
 
