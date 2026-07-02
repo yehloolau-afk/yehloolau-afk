@@ -34,7 +34,7 @@ Right now I'm focused on tools that make designers more capable: things that red
 
 ## How I build
 
-Almost everything is a single HTML file deployed on Netlify or GitHub Pages.
+Almost everything is a single HTML file deployed on GitHub Pages.
 
 `Claude Code` · `Vanilla HTML / CSS / JS` · `GitHub Actions` · `Cloudflare Workers`
 
