@@ -22,7 +22,7 @@ Right now I'm focused on tools that make designers more capable: things that red
 
 **🔍 [Patent Scout](https://github.com/yehloolau-afk/lingan-tanzhen)** — Patent feasibility scanner for product ideas. Input an idea, it searches CN/US/EP patents, scores your innovation, and returns structured product directions (positioning / mechanism / patentable moat / risk / MVP), each critic-refined and paired with an iOS-scale UI flow **plus an AI-generated visual style board**. Live search online, demo replay as fallback.
 
-**🗞️ [AI News Station](https://github.com/yehloolau-afk/ai-news-station)** — 7-channel AI news aggregator. Pulls from 20+ sources, auto-translates, updates hourly. Built for my team, now open to everyone.
+**🗞️ [AI News Station](https://github.com/yehloolau-afk/ai-news-station)** — AI news hub built around three surfaces: a daily digest, a hand-curated model-release timeline, and a cross-filterable firehose (source × topic). 20+ sources, auto-translated, hourly updates, plus shareable GEO-optimized archive pages for search and AI engines. Built for my team, now open to everyone.
 
 **📚 [College of Design](https://github.com/yehloolau-afk/college-of-design)** — A curated knowledge platform for designers growing in the AI era. Three tracks: UX Design fundamentals, AIGC workflow integration, and career growth — hand-picked resources, no fluff.
 
