@@ -20,9 +20,9 @@
 
 **🎙️ [AI 每日小记](https://github.com/yehloolau-afk/ai-daily-note)** — 跨端语音记录工具。Mac 端桌面悬浮窗 + iOS 快捷指令，均由 Typeless 驱动。说出一个想法，自动写入 Obsidian 表格，区分设备来源，iCloud 实时同步，零摩擦。
 
-**🔍 [灵感探针](https://github.com/yehloolau-afk/lingan-tanzhen)** — 面向产品想法的专利可行性检索工具。输入一个想法，自动检索中美欧三方专利，评分创新度，输出**结构化产品方向**（定位 / 核心机制 / 可专利壁垒 / 风险 / MVP），每条经评审视角二次锐化，并配 iOS 真实字号的界面流程**与 AI 生成的视觉风格板**。线上直连后端真检索，不可用时降级为演示回放。
+**🔍 [灵感探针](https://github.com/yehloolau-afk/lingan-tanzhen)** — 面向产品想法的专利可行性检索工具。检索中美欧三方专利、评分创新度，输出结构化产品方向（定位 / 机制 / 可专利壁垒 / 风险 / MVP），每条配 iOS 真实字号的界面流程与 AI 生成的视觉风格板。
 
-**🗞️ [飞翔7号的AI资讯站](https://github.com/yehloolau-afk/ai-news-station)** — AI 资讯中枢，围绕三种场景组织：每日速览日报、人工策展的模型发布大事记、以及可按来源×分类交叉筛选的全量流。抓取 20+ 来源，自动翻译，每小时更新，并生成可分享、面向搜索/AI 引擎（GEO）的静态存档页。为团队内部打造，现已对外开放。
+**🗞️ [飞翔7号的AI资讯站](https://github.com/yehloolau-afk/ai-news-station)** — AI 资讯中枢，三种场景：每日速览日报、人工策展的模型发布大事记、可按来源×分类交叉筛选的全量流。20+ 来源、自动翻译、每小时更新。为团队打造，现已对外开放。
 
 **📚 [设计学院](https://github.com/yehloolau-afk/college-of-design)** — 为 AI 时代成长中的设计师打造的知识平台。三条学习路径：UX 设计基础、AIGC 工作流融合、职业成长，精选内容，去掉水分。
 
