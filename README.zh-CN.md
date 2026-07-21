@@ -20,7 +20,7 @@
 
 **🎙️ [AI 每日小记](https://github.com/yehloolau-afk/ai-daily-note)** — 跨端语音记录工具。Mac 端桌面悬浮窗 + iOS 快捷指令，均由 Typeless 驱动。说出一个想法，自动写入 Obsidian 表格，区分设备来源，iCloud 实时同步，零摩擦。
 
-**🔍 [灵感探针](https://github.com/yehloolau-afk/lingan-tanzhen)** — 面向产品想法的专利可行性检索工具。检索中美欧三方专利、评分创新度，输出结构化产品方向（定位 / 机制 / 可专利壁垒 / 风险 / MVP），每条配 iOS 真实字号的界面流程与 AI 生成的视觉风格板。
+**🔍 [灵感探针](https://github.com/yehloolau-afk/lingan-tanzhen)** — 面向产品想法的专利可行性检索工具。检索中美欧三方专利，把创新分拆解为三个透明维度（专利拥挤度 / 技术新颖度 / 市场空白度），输出结构化产品方向（定位 / 机制 / 可专利壁垒 / 风险 / MVP），每条配 iOS 真实字号的界面流程；相似专利附专利号与可点原文链接，方便核验。
 
 **🗞️ [飞翔7号的AI资讯站](https://github.com/yehloolau-afk/ai-news-station)** — AI 资讯中枢，三种场景：每日速览日报、人工策展的模型发布大事记、可按来源×分类交叉筛选的全量流。20+ 来源、自动翻译、每小时更新。为团队打造，现已对外开放。
 
